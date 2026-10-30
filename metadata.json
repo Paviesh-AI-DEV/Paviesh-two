@@ -1,0 +1,11 @@
+{
+  "name": "PAVIESH Arm",
+  "description": "6-DOF Robotic Arm Controller with Arduino Uno USB OTG, Gemini AI Visual Q&A, Step-by-step Math Solver, and Bilingual Voice Assistant",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.RECORD_AUDIO"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
